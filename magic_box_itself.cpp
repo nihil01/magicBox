@@ -30,7 +30,7 @@
 
 int pcf8574_address = 0x27;        // PCF8574T:0x27, PCF8574AT:0x3F
 int lcdhd; // used to handle LCD
-const std::string API_KEY = "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"; //open router api
+const std::string API_KEY = "XXX"; //open router api
 struct PerSocketData {};
 
 //CURL FOR HTTP REQUESTS
